@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "Place dans la chaîne de valeur, dépendances et pressions",
-    "colorLabel": "Voir_légende",
-    "nodeLabel": "Activité, dépendances et pressions "
+    "colorLabel": "Voir légende",
+    "nodeLabel": "Activitées, dépendances et pressions"
   },
   "features": {
     "search": true,
