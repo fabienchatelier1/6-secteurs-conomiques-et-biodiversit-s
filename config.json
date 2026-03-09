@@ -13,9 +13,9 @@
     "title": "Réseau de dépendance et de pression à la biodiversité pour le secteur du bois"
   },
   "legend": {
-    "edgeLabel": "Place dans la chaîne de valeur, dépendances et pressions",
+    "edgeLabel": "Chaîne de valeur, dépendances à la biodiversité et pressions sur la biodiversité",
     "colorLabel": "voir légende présent dans le dossier partagé",
-    "nodeLabel": "Activitées, dépendances et pressions"
+    "nodeLabel": "Activités économiques, dépendances à la biodiversité et pressions sur la biodiversité"
   },
   "features": {
     "search": true,
