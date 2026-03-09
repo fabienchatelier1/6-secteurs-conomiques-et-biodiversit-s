@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Place dans la chaîne de valeur, dépendances et pressions",
-    "colorLabel": "voir légende présent le dossier partagé",
+    "colorLabel": "voir légende présent dans le dossier partagé",
     "nodeLabel": "Activitées, dépendances et pressions"
   },
   "features": {
